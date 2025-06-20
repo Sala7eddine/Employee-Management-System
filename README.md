@@ -123,7 +123,11 @@ php artisan serve
 You can now access the application at http://localhost:8000.
 
 <hr>
+
 - Screenshots
+  
+
+![Image](https://github.com/user-attachments/assets/f28c4253-88b1-4851-bd1d-73fd14724057)
 
 
-
+<hr>
