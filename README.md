@@ -125,7 +125,4 @@ You can now access the application at http://localhost:8000.
 - Screenshots
 
 
-<hr>
-License
-This application is open-source and provided under the MIT license.
-All assets used are free and for demonstration purposes only.
+
