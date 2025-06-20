@@ -68,7 +68,7 @@ bash
 Copy
 Edit
 
-git clone https://github.com/your-username/employee-management-system.git
+`git clone https://github.com/your-username/employee-management-system.git`
 
 <hr>
 - Go into the project directory:
@@ -76,7 +76,7 @@ git clone https://github.com/your-username/employee-management-system.git
 bash
 Copy
 Edit
-cd employee-management-system
+`cd employee-management-system`
 
 <hr>
 - Install PHP dependencies:
@@ -84,7 +84,7 @@ cd employee-management-system
 bash
 Copy
 Edit
-composer install
+`composer install`
 
 <hr>
 ## #Copy and configure the environment file:
@@ -95,7 +95,8 @@ Edit
 `cp .envexample .env` 
 
 <hr>
-- Update your .env file with the correct database credentials.
+
+- Update your `.env` file with the correct database credentials.
 
 <hr>
 - Generate the application key:
